@@ -7,6 +7,6 @@
   "author": "srujanjack@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "pdfjs-dist": "2.0.303"
+    "pdfjs-dist": "2.4.456"
   }
 }
